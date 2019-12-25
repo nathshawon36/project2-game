@@ -13,4 +13,4 @@
 - New Game: The function used for fresh starting of the match
 
 
-!["Dice"](img/game.png)
+![](game.png)
