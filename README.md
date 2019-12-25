@@ -13,4 +13,6 @@
 - New Game: The function used for fresh starting of the match
 
 
+
+
 ![](game.png)
